@@ -26,10 +26,18 @@ The football dataset is a structured and automatically updated football data, wh
   
 Note: The dataset is composed of multiple data files, including information based on games, players, and appearances that are automatically updated once a week. Each file contains the attributes of the entity and IDs that can be used to join them together.
 
-## Tools used for Analysis
-- Python, SQL --> Data Preprocessing
-- Tableau --> Creating Reports/Dashboards
+## Steps For Analysing the Data
+- Data Preprocessing
+- Generating Business Questions
+- Data Visualization
+- Building  insights
 
+## Tools used for Analysis
+- Python, SQL, Excel --> Data Preprocessing
+- Word --> Business questions are present [Here](Business_Objectives.docx)
+- Tableau --> Data Visualization and Building insights
+
+  
 ### Data Preprocessing
 Data Preprocessing includes the following steps
 - Loading the Data
