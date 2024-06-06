@@ -17,7 +17,11 @@ The football dataset is a structured and automatically updated football data, wh
 - 30,000+ players from those clubs
 - 400,000+ player market valuations historical records
 - 1,200,000+ player appearance records from all games
-   [Dowmload Here](appearances.xlsx, game_events.xlsx, game_lineups.xlsx, games.xlsx, players.x)
+  [appearancess data_file](appearances.xlsx)
+  [game_events data_file](game_events.xlsx)
+  [game_lineups data_file](game_lineups.xlsx)
+  [games data_file](games.xlsx)
+  [players data_file](players.xlsx)
   
 Note: The dataset is composed of multiple data files, including information based on games, players, and appearances that are automatically updated once a week. Each file contains the attributes of the entity and IDs that can be used to join them together.
 
@@ -31,6 +35,7 @@ Data Preprocessing includes the following steps
 - Data Merging
 - Data Cleaning
 - Saving the cleand file into csv
+  [Python Code](Project)
 
   
 
