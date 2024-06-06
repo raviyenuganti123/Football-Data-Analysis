@@ -1,1 +1,35 @@
-# Project-1
+# Football Data Analysis
+
+## Introduction
+- Football is a global, popular, and dynamic sport with many different factors that can influence the outcome of a match. By analyzing large datasets of football data, teams can gain a deeper understanding of factors that contribute to players' success, enabling coaches, scouts, and analysts to make informed decisions.
+- Football data analysis is the process of collecting, cleaning, and analyzing data to extract meaningful insights. The valuable insights extracted from this analysis can be used to improve player performance, team tactics, fan engagement, and overall decision-making.
+- Various data analysis techniques, such as Exploratory Data Analysis (EDA) and correlation, using tools like Python, MySQL, Excel, and Tableau, can be employed to extract meaningful insights. These insights aim to enhance decision-making, improve team performance, and provide a competitive edge in the sport.
+
+## Project Objective
+- The objective of the project is to analyze a football dataset to identify key factors for success, specifically within areas such as player performance, team tactics, fan behavior, and 
+injury Analysis.
+- Extracting actionable insights from the data that can be used to enhance decision-making in football.
+
+## Data Description
+The football dataset is a structured and automatically updated football data, which includes the following:
+- 60,000+ games from many seasons on major competitions
+- 400+ clubs from those competitions
+- 30,000+ players from those clubs
+- 400,000+ player market valuations historical records
+- 1,200,000+ player appearance records from all games
+  
+Note: The dataset is composed of multiple data files, including information based on games, players, and appearances that are automatically updated once a week. Each file contains the attributes of the entity and IDs that can be used to join them together.
+
+## Tools
+- Python, SQL --> Data Preprocessing or Data Analysis
+- Tableau --> Creating Reports/Dashboards
+
+### Data Preprocessing
+
+  
+
+
+  
+
+
+
