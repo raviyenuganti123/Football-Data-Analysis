@@ -17,11 +17,12 @@ The football dataset is a structured and automatically updated football data, wh
 - 30,000+ players from those clubs
 - 400,000+ player market valuations historical records
 - 1,200,000+ player appearance records from all games
-  [appearancess data_file](appearances.xlsx)
-  [game_events data_file](game_events.xlsx)
-  [game_lineups data_file](game_lineups.xlsx)
-  [games data_file](games.xlsx)
-  [players data_file](players.xlsx)
+  
+   - [appearancess data_file](appearances.xlsx)
+   - [game_events data_file](game_events.xlsx)
+   - [game_lineups data_file](game_lineups.xlsx)
+   - [games data_file](games.xlsx)
+   - [players data_file](players.xlsx)
   
 Note: The dataset is composed of multiple data files, including information based on games, players, and appearances that are automatically updated once a week. Each file contains the attributes of the entity and IDs that can be used to join them together.
 
@@ -35,7 +36,36 @@ Data Preprocessing includes the following steps
 - Data Merging
 - Data Cleaning
 - Saving the cleand file into csv
-  [Python Code](Project)
+  
+  Click [Here](Project,ipynb) to see the Python Data Preprocessing Code
+
+## Football Data Analysis Focus Areas and Business Objectives
+1. Performance Analysis
+2. Player Profile and Market Value
+3. Team Comparison
+4. Attendance and Stadium Analysis
+5. Referee Analysis
+6. Substitution Patterns
+7. Event Analysis
+8. Competition Analysis
+9. Player Attributes and Demographics
+10. Contract Management
+
+Click  [Here]()  to see the Focus Areas and Businesss Objectives
+
+## Creating Reports/Dashboards
+Based on the above Focus Areas and Business Objectives, I have Created the several Dashboards
+
+Click  [Here]()  to see the Tableau Dashboards.
+
+[]()
+
+
+
+
+  
+
+  
 
   
 
