@@ -51,14 +51,14 @@ Data Preprocessing includes the following steps
 9. Player Attributes and Demographics
 10. Contract Management
 
-Click  [Here]()  to see the Focus Areas and Businesss Objectives
+Click [Here](Business Objectives (with business questions).docx)  to see the Focus Areas and Businesss Objectives
 
 ## Creating Reports/Dashboards
 Based on the above Focus Areas and Business Objectives, I have Created the several Dashboards
 
-Click  [Here](Football Data Analysis Project.twbx)  to see the Tableau Dashboards.
+Click [Here](Football Data Analysis Project.twbx)  to see the Tableau Dashboards.
 
-[]()
+[](dashboard.png)
 
 
 
