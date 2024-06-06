@@ -10,13 +10,14 @@
 injury Analysis.
 - Extracting actionable insights from the data that can be used to enhance decision-making in football.
 
-## Data Description
+## Data Description/ Data Sources
 The football dataset is a structured and automatically updated football data, which includes the following:
 - 60,000+ games from many seasons on major competitions
 - 400+ clubs from those competitions
 - 30,000+ players from those clubs
 - 400,000+ player market valuations historical records
 - 1,200,000+ player appearance records from all games
+   [Dowmload Here]()
   
 Note: The dataset is composed of multiple data files, including information based on games, players, and appearances that are automatically updated once a week. Each file contains the attributes of the entity and IDs that can be used to join them together.
 
@@ -25,6 +26,13 @@ Note: The dataset is composed of multiple data files, including information base
 - Tableau --> Creating Reports/Dashboards
 
 ### Data Preprocessing
+Data Preprocessing includes the following steps
+- Loading the Data
+- Data Merging
+- Data Cleaning
+- Saving the cleand file into csv
+
+  
 
   
 
