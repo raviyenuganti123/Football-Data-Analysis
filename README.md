@@ -45,7 +45,7 @@ Data Preprocessing includes the following steps
 - Data Cleaning
 - Saving the cleand file into csv
   
-  Click [Here](Project,ipynb) to see the Python Data Preprocessing Code
+  Click [Here](Project,ipynb) to see the Python Data Preprocessing
 
 ## Football Data Analysis Focus Areas and Business Objectives
 1. Performance Analysis
